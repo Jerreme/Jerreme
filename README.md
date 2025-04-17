@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerreme Bais De Torres</h1>
-<h3 align="center">A passionate Computer Science Student</h3>
+<h3 align="center">A passionate Computer Science Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerreme&label=Profile%20views&color=0e75b6&style=flat" alt="jerreme" /> </p>
 
